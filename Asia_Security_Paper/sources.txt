@@ -1,0 +1,5 @@
+#The following is a master file of different sources used for our group paper.
+#I will also create a .bib file for ease of use, as the format can easily be converted into full citations with little effort.
+#You can find both the .bib and .txt file on the google drive and a github repository that I have set up at https://github.com/AnonymousSolutions/Asia_Security-Paper or git@github.com:AnonymousSolutions/Asia_Security-Paper.git if you use SSH.
+
+#List:

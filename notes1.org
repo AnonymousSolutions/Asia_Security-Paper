@@ -1,0 +1,112 @@
+#+TITLE: Notes 1
+* Why is there no Asian IRT?
+- Western IRT is better?
+- Gramscian IRT hegemony?
+- They are hidden?
+- Local conditions discriminate against Asian IRT?
+- West has a head start, Asia is catching up?
+* Identity and culture
+- Classical figures (Sun Tzu) - not applied
+- Leaders (Nehru, Mao, Sukarno) - described by historians and area specialists
+- Non-western Western IRT (A.P. Mana, Chung Moon, Takashi Inoguchi)
+- Asia-based concepts (Anderson's imaged communities)
+* Chinese political thought
+- Blurry distinction between international and national
+- Everything under heaven - emperor at its center
+- Tributary system
+  = China center, providing institutions for the rest of Asia
+- Only difference in the radiation of the ego
+* Chinese political thought
+- (Neo-)Confucianism (moral, character)
+  - Tanxia trope (harmony, universalism, holism, benevolenve - "Sino-centric hierarchical relationship among unequals, goverened according to Confucian principles of benevolence" as opposed to Westphalian system) - the myth of confucian pacifism, in fact a mix of inclusion and exclusion
+- Western (anti-Confucian) - discounted 1949-79
+  - Empirical realism, neoclassical realism with party at the center
+- Marxism/Maoism - dialectical materialism
+  - Mao: class struggle as the greatest contradiction
+* Chinese marxism
+- Historicist - Part proceeds towards a predestined goal
+  - Dubbed 'Chinese dream', 'Communism', or 'harmonius society' - yet dream not automatic
+  - Similarities with Confucianism (Grand Harmony = utopia)
+- Positivist - there is causation in reality, that can be discovered (path to harmony). 'Objective laws'
+  - Each era ends in contradictions 
+- Monism - only one set of legitimate values, nad interests in society, which exist in harmony. These guide/speed up the path to common goals.
+** Deng
+- Redefinition of the greatest contradiction - class struggle discourse has disappeared (no real enemies to the revolution)
+- Instead, contradiction between the ever-growing material and cultural needs of the people and the low level of production.
+- Economic growth is the primary Party objective
+  - No clear political division - technocratic rule (of scientific decision) without the possibility to disagree/question.
+* Japanese political thought
+- Zen Buddhism, Shinto, Confucianism (and Chinese philosophy) and later (Meiji/Showa era) Christianity and the West.
+- Schools
+  - Kokugaku (Shinto): Jp origins, against China, Sonno joi and Meiji restoration, mono no aware)
+  - Shushigaku: Neoconfucianism - theoretical basis for Tokugawa shogunate
+  - Rangaku (West)
+- Meiji era (1868-1917)
+  - Shushigaku went to the background, new ideals
+- Contemporary
+  - Marxism/socialism (1920s-1970s) - hand in hand with proletariat
+  - Neo-confucianism - shushigakua (obdience vis-a-vis western individualism) vs. kogaky (rational humanism)
+  - Japanism - based on Shinto tradition
+  - Kyoto school - Nishida Kiitaro - reconcilliation of Japan and the West
+    - Zen Buddhism - pure experience, no distinction between subjectivity objectivity; social nature of people
+  - Nihon(jin)ron
+* Post-War Japan
+** Wartime Jpan
+- Hierarchy against anarchy in IR
+- Prevelence of the spirit
+- Everything according to the plan
+- No prisoners (if yes, then cooperating) and no defeat (i.e. almost no doctors)
+- Complete loyalty
+- American intelligence did get intelligence from captured Japanese POWs
+** Post-war occupation
+- Article 9:
+  1. Aspiring sincerly to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and thre threat or use of force as a means of settling international disputes.
+  2. In order to accomplish the aim of the preceding paragraph land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.
+- Everlasting struggle between Constitutional Article 9 and the SDF/military
+- Key post-war principles: No dispatch of troops, non-nuclear, no export of weapons, no offensive military
+- Economic rise all the way up to 1992 bubble crisis.
+- Political system of iron triangle (LDP, bureaucracy, zaikai)
+- Proactive contribution to peace after the Gulf war, change in UN PKO, gradual "normalization".
+** Japan prior to 9/11
+- 1992 PKO law - to allow for UN PKO ops.
+- 1997 New Security Guidlines for US-Japan alliance
+  1. The alliance becomes complex - dealing with relief, UN PKO, emergency operations.
+  2. Alliance becomes regional (SDF operation field enlarged to ‘areas surrounding Japan’)
+** Japan's post-9/11 evolution
+- In response to 9/11 in October 2001, Japan passed 'Anti-Terrorism Special Measures Laws' (ATSML), which allowed the SDF to operate in noncombat areas, provide fueld and supplies to US forces and others, transport weapons and ammunition by sea, provide medical care and help refuges.
+- In 2003, Japan passed two further laws:
+  - Military Emergence Law -> guidlines for response in case of military attack against Japan.
+  - Law Concerning Special Measures on Humanitarian Reconstruction Assistance (LCSMHRA) authorized the dispatch of SDF to Iraq.
+    - 400 SDF sent to Iraq - medical treatment, assistance to refugees, etc....
+** Abe doctrine
+- Reformulation of the Yoshida doctrine?
+  - Historical revisionism
+    - Challenging the Murayama apology for colonialism and aggression (1995), Kono statement of apology of comfort women, Tokyo tribunals, visiting Yasukuni
+  - Constitutional revision
+    - Promoting collective self-defense
+  - Southeast Asia multilateralism - encircling China
+  - Promotion of US-Japan alliance
+    - JSDF dispatching rights, TPP negotiations, no AIIB, relocation fo Futenma airbase
+    - U.S. afraid of entrapment
+** Post-Abe era
+- Abe replaced by Yoshihide Suga - main priorities in tackling the pandemic, making administrative reforms, social agenda. Backed the Olympics.
+- Did not run for the LDP head, replaced by Fumio Kishida in 2021. Comfortable won the 2021 election. Rise of Isshin no kai (innovation party), bad result for CDP
+** Kishida the stabilizer?
+- Former foreign minister, a centrist, often in favour of good relations with China, consensus builder, Kochikay (Yoshida/Ikeda) faction.
+- New agenda - "New capitalism" - redistributive (capital gain tax), different from Abenomics (fiscal stimulus, monetary easing, and structural reform)
+- Tough on China, 2% defense spending.
+- Climate pledges?
+** New security legislature 2022/3
+- Revision of three basic documents 12/22: National Security Strategy (NSS), 2018 National Defense Program Guidelines (NDPG), and 2018 Mid-Term Defense Program (MTDP)
+  - New 2% GDP spending of army by 2027
+  - New counterstrike capabilities vs. enemy missile sites (DPRK)
+    - Constitution no longer recognizes only defense (but no pre-emptive)
+  - New definition of security partners (incl. CR) and threats (Russia, climate change)
+- Negative reaction in China, DPRK
+- Positive reaction in USA/EU, and ROK, even in Japan
+
+
+
+
+
+
